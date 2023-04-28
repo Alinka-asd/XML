@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report>
+    <Bug_ID>1</Bug_ID>
+    <Environment>Windows 11 Pro Chrome 112.0</Environment>
+    <Title>Text in Contact block at the footer of the page isn't translated to selected language</Title>
+    <Actual_result>Text in Contact block at the footer of the page isn't translated to selected language</Actual_result>
+    <Expected_result>Text in Contact block at the footer of the page is translated to selected language</Expected_result>
+    <Steps> 
+          <Step1>Navigate to ххх.com</Step1>
+          <Step2>Select language exсept English German French Italian Vietnamese Russian</Step2>
+          <Step3>Scroll to the footer of the page</Step3>
+          <Step4>Look at Contact block</Step4>
+     </Steps>     
+    <Priority>Trivial</Priority>
+    <Severity>Minor</Severity>
+     <Attachment>Link for video</Attachment>
+ </Bug_report>
